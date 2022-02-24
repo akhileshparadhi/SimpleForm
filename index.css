@@ -1,0 +1,12 @@
+.form{
+    display: block;
+    color:rgb(255, 0, 0);
+}
+
+.number{
+    padding-top: 20px;
+}
+
+.submit{
+    padding-top: 30px;
+}
